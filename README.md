@@ -139,8 +139,6 @@ Understand the transations of customer with other factors like:
 
 Ultimately, this dashboard serves as an integrated compliance and performance portal for the fiscal year 2023, 2024, 2025,2026. It maps broad revenue streams directly against granular overhead costs (wages, taxes, and specific facility operational markers), giving leadership a transparent, verified, and statistically sound visualization of bottom-line efficiency.
 
-![Alt text].(https://github.com/Manthesh-Shetty/Finsight_Finance_Analysis/blob/main/Finsight_Overview_Analysis.png)
-
 
 
 
